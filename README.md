@@ -1,6 +1,5 @@
 # Dynamic Round Robin Scheduling Algorithms in a Microkernel Operating System
 
-## Abstract
 
 The performance of an operating system (OS) is significantly influenced by its scheduling algorithm. This project aims to evaluate the effectiveness and efficiency of various Dynamic Round Robin algorithms for CPU scheduling on a Microkernel Operating System. We will compare three different Round Robin algorithms: Optimal Round Robin Scheduling using Manhattan Distance, Improved Round Robin Scheduling, and Adaptive Round Robin Algorithm. Our evaluation will focus on key performance metrics such as Waiting Time, Turnaround Time, Response Time, and Number of Context Switches.
 
@@ -82,19 +81,7 @@ The project explores various Dynamic Round Robin scheduling algorithms and their
 - **Tools**: Git, VS Code, Bochs, WSL (Ubuntu), GCC, NASM
 - **Languages**: x86 Assembly, C, Shell Script
 
-## Project Milestones
 
-| Milestone                          | Start   | End     |
-|------------------------------------|---------|---------|
-| Project Kick-off and Planning      | Feb-14  | Feb-21  |
-| System Design and Architecture     | Feb-22  | Mar-06  |
-| Core Component Implementation       | Mar-07  | Mar-27  |
-| Dynamic Round Robin Scheduling Implementation | Mar-27  | Apr-03  |
-| Develop Programs to Test Scheduling Algorithms | Apr-04  | Apr-11  |
-| Testing and Evaluation             | Apr-12  | Apr-18  |
-| Optimization and Refinement         | Apr-19  | Apr-25  |
-| Documentation and Reporting         | Apr-26  | Apr-30  |
-| Project Review and Finalization     | May-01  | May-01  |
 
 ## References
 
